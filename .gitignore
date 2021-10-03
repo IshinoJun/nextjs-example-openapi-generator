@@ -25,6 +25,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
+.enev
 .env.local
 .env.development.local
 .env.test.local
@@ -32,3 +33,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# openapi-generator
+/openapi-generator
